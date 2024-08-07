@@ -12,6 +12,5 @@
 ### IP: IP address of the client that sent this message to the server
 ### Data: Payload of the message
 
-# Docs
-
-### Just look at the code it is well comented
+## Example
+### LOCATION_X 124.254.706 15
